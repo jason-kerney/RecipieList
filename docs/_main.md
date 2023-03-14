@@ -5,6 +5,7 @@
 /bl-->
 <!--bl
 (table-of-contents
+    (section-main "./fam/_main.md")
     (section-main "./untried/_main.md")
 )
 /bl-->
