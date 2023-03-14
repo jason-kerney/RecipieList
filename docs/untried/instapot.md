@@ -1,14 +1,7 @@
-
-<!-- GENERATED DOCUMENT! DO NOT EDIT! -->
-# Recipes For Me #
-
-## Table Of Contents ##
-
-- [Section 1: New and Untried](#user-content-new-and-untried)
-
-## New and Untried ##
-
-### Instapot ###
+<!--bl
+(filemeta
+    (title "Instapot"))
+/bl-->
 
 - [Parmesan Risotto](https://www.365daysofcrockpot.com/instant-pot-parmesan-risotto/)
   - Needs more Parmesan and Onion
@@ -18,8 +11,3 @@
   - Pull the meat out when done, discard the bay leaf and put broth and onions in a blender and puree. Return to instant pot and add back in pulled apart roast
 - [Mississippi Pot Roast](https://www.simplyhappyfoodie.com/instant-pot-mississippi-pot-roast/)
   - sear and 90 minutes on high. Make sure you count the pepperoncinis and get all the stems out before you blend. We serve the pepperoncinis on the side instead of blending them. So much flavor.
-    
-    
-
-<!-- GENERATED DOCUMENT! DO NOT EDIT! -->
-    
