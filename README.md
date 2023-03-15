@@ -5,7 +5,8 @@
 ## Table Of Contents ##
 
 - [Section 1: Family Favorites](#user-content-family-favorites)
-- [Section 2: New and Untried](#user-content-new-and-untried)
+- [Section 2: [Suvie](https://www.suvie.com/)](#user-content-[suvie](https://www.suvie.com/))
+- [Section 3: New and Untried](#user-content-new-and-untried)
 
 ## Family Favorites ##
 
@@ -45,6 +46,17 @@ Instructions:
 7. Pour Cold Guinness Stout over turkey
 8. Reseal bag.
 9. Cook for remainder of time +30 minutes.
+    
+    
+
+## [Suvie](https://www.suvie.com/) ##
+
+### From suvie.com ###
+
+#### Basic Learner Recipies
+
+- [Herb Roasted Chicken](https://blog.suvie.com/herb-roasted-chicken/)
+- [White Wine Braised Chicken Thighs](https://blog.suvie.com/white-wine-braised-chicken-thighs/)
     
     
 
