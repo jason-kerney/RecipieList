@@ -2,7 +2,6 @@
 (filemeta
     (title "General Items"))
 /bl-->
-
 #### Slow Cooked Bacon Green Beans
 
 Ingredients
