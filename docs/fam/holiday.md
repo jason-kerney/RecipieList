@@ -2,7 +2,6 @@
 (filemeta
     (title "Holiday Items"))
 /bl-->
-
 #### Turkey
 
 All amounts are for 25lbs turkey.

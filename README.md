@@ -11,7 +11,6 @@
 ## Family Favorites ##
 
 ### Holiday Items ###
-
 #### Turkey
 
 All amounts are for 25lbs turkey.
