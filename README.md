@@ -5,7 +5,7 @@
 ## Table Of Contents ##
 
 - [Section 1: Family Favorites](#user-content-family-favorites)
-- [Section 2: [Suvie](https://www.suvie.com/)](#user-content-[suvie](https://www.suvie.com/))
+- [Section 2: Suvie](#user-content-suvie)
 - [Section 3: New and Untried](#user-content-new-and-untried)
 
 ## Family Favorites ##
@@ -48,7 +48,9 @@ Instructions:
     
     
 
-## [Suvie](https://www.suvie.com/) ##
+## Suvie ##
+
+[Suvie](https://www.suvie.com/) is a cool cooking gadget.
 
 ### From suvie.com ###
 
