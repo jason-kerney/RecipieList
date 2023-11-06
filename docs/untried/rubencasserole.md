@@ -1,6 +1,6 @@
 <!--bl
 (filemeta
-    (title "Ruben Casserole"))
+    (title "Reuben Casserole"))
 /bl-->
 
 ### Ingredients
