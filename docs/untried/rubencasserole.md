@@ -1,7 +1,7 @@
-<!--bl
-(filemeta
-    (title "Reuben Casserole"))
-/bl-->
+<!--(dl
+(section-meta
+    (title Reuben Casserole))
+)-->
 
 ### Ingredients
 
@@ -23,7 +23,6 @@
 1. Line baking pan with bread
 1. Cover bread with cheese
 1. Cover cheese with Sour Kraut
-1. Cover Sour Kraut
 1. Cover Sour Kraut Dressing, Mustard and pepper to taste
 1. Cover Dressing with pickles
 1. Cover Pickles with meat (At least same thickness as above)

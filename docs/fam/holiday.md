@@ -1,7 +1,7 @@
-<!--bl
-(filemeta
-    (title "Holiday Items"))
-/bl-->
+<!--(dl
+(section-meta
+    (title Holiday Items))
+)-->
 #### Turkey
 
 All amounts are for 25lbs turkey.

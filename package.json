@@ -1,0 +1,17 @@
+{
+  "name": "recipelist",
+  "version": "1.0.0",
+  "description": "collection of my recipies",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jason-kerney",
+  "license": "MIT",
+  "devDependencies": {
+    "doculisp": "^2.0.2"
+  }
+}

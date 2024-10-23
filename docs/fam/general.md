@@ -1,7 +1,7 @@
-<!--bl
-(filemeta
-    (title "General Items"))
-/bl-->
+<!--(dl
+(section-meta
+    (title General Items))
+)-->
 #### Slow Cooked Bacon Green Beans
 
 Ingredients

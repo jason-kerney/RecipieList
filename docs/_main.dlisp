@@ -1,0 +1,12 @@
+(section-meta
+    (title Recipes For Me)
+    (*authors [Jason Kerney])
+    (include
+        (Section ./fam/_main.dlisp)
+        (Section ./suvie/_main.md)
+        (Section ./untried/_main.dlisp)
+    )
+)
+
+(# Table of Contents)
+(content (toc numbered-labeled))

@@ -1,16 +1,19 @@
+<!-- GENERATED DOCUMENT DO NOT EDIT! -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 
-<!-- GENERATED DOCUMENT! DO NOT EDIT! -->
 # Recipes For Me #
 
-## Table Of Contents ##
+## Table of Contents ##
 
-- [Section 1: Family Favorites](#user-content-family-favorites)
-- [Section 2: Suvie](#user-content-suvie)
-- [Section 3: New and Untried](#user-content-new-and-untried)
+1. [Section: Family Favorites](#family-favorites)
+2. [Section: Suvie](#suvie)
+3. [Section: New and Untried](#new-and-untried)
 
 ## Family Favorites ##
 
 ### Holiday Items ###
+
 #### Turkey
 
 All amounts are for 25lbs turkey.
@@ -45,8 +48,6 @@ Instructions:
 7. Pour Cold Guinness Stout over turkey
 8. Reseal bag.
 9. Cook for remainder of time +30 minutes.
-    
-    
 
 ## Suvie ##
 
@@ -58,8 +59,6 @@ Instructions:
 
 - [Herb Roasted Chicken](https://blog.suvie.com/herb-roasted-chicken/)
 - [White Wine Braised Chicken Thighs](https://blog.suvie.com/white-wine-braised-chicken-thighs/)
-    
-    
 
 ## New and Untried ##
 
@@ -73,9 +72,8 @@ Instructions:
   - Pull the meat out when done, discard the bay leaf and put broth and onions in a blender and puree. Return to instant pot and add back in pulled apart roast
 - [Mississippi Pot Roast](https://www.simplyhappyfoodie.com/instant-pot-mississippi-pot-roast/)
   - sear and 90 minutes on high. Make sure you count the pepperoncinis and get all the stems out before you blend. We serve the pepperoncinis on the side instead of blending them. So much flavor.
-    
 
-### Ruben Casserole ###
+### Reuben Casserole ###
 
 ### Ingredients
 
@@ -92,20 +90,20 @@ Instructions:
 
 ### Steps
 
+1. Lightly Rinse Sour Kraut
 1. Cut crust off of bread
 1. Line baking pan with bread
 1. Cover bread with cheese
 1. Cover cheese with Sour Kraut
-1. Cover Sour Kraut with Dressing, Mustard and pepper to taste
+1. Cover Sour Kraut Dressing, Mustard and pepper to taste
 1. Cover Dressing with pickles
-1. Cover Pickles with meat
+1. Cover Pickles with meat (At least same thickness as above)
 1. Repeat layers until pan is full
 1. Cover with cheese
 1. Bake at 350 for an hour
 1. Let sit for 15 minutes
 1. Serve
-    
-    
 
-<!-- GENERATED DOCUMENT! DO NOT EDIT! -->
-    
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- GENERATED DOCUMENT DO NOT EDIT! -->

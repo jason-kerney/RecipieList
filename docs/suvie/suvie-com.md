@@ -1,7 +1,7 @@
-<!--bl
-(filemeta
-    (title "From suvie.com"))
-/bl-->
+<!--(dl
+(section-meta
+    (title From suvie.com))
+)-->
 
 #### Basic Learner Recipies
 
