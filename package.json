@@ -12,6 +12,6 @@
   "author": "jason-kerney",
   "license": "MIT",
   "devDependencies": {
-    "doculisp": "^2.0.2"
+    "doculisp": "^6.0.1"
   }
 }
