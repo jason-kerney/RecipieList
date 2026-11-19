@@ -2,19 +2,21 @@
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
+<!-- Compiled with doculisp https://www.npmjs.com/package/doculisp -->
+
 # Recipes For Me #
 
 ## Table of Contents ##
 
-1. [Section: Family Favorites](#family-favorites)
-2. [Section: Suvie](#suvie)
-3. [Section: New and Untried](#new-and-untried)
+1. Section: [Family Favorites](#family-favorites)
+2. Section: [Suvie](#suvie)
+3. Section: [New and Untried](#new-and-untried)
 
 ## Family Favorites ##
 
 ### Holiday Items ###
 
-#### Turkey
+#### Turkey ####
 
 All amounts are for 25lbs turkey.
 
