@@ -4,7 +4,6 @@
     (include
         (Section ./fam/_main.dlisp)
         (Section ./personal/_main.dlisp)
-        (Section ./untried/_main.dlisp)
     )
 )
 

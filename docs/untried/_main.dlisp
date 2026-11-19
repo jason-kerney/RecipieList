@@ -1,8 +1,0 @@
-(section-meta
-    (title New and Untried)
-    (include
-        (Subsection ./instapot.md)
-    )
-)
-
-(content)

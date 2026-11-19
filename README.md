@@ -10,7 +10,6 @@
 
 1. Section: [Family Favorites](#family-favorites)
 2. Section: [Personal Favorites](#personal-favorites)
-3. Section: [New and Untried](#new-and-untried)
 
 ## Family Favorites ##
 
@@ -82,19 +81,6 @@ Instructions:
 1. Bake at 350 for an hour
 1. Let sit for 15 minutes
 1. Serve
-
-## New and Untried ##
-
-### Instapot ###
-
-- [Parmesan Risotto](https://www.365daysofcrockpot.com/instant-pot-parmesan-risotto/)
-  - Needs more Parmesan and Onion
-- [Lamb Shank](https://www.pressurecookrecipes.com/instant-pot-lamb-shank/)
-- [Pot Roast](https://www.simplyrecipes.com/recipes/pot_roast/)
-  - For that one, we skip the carrots and make them on the side. Other adjustments - sear meat  in instant pot, 4 minutes each side. Use 1/2 cup wine, 1/2 cup chicken or beef broth. Cook on high pressure 90 minutes
-  - Pull the meat out when done, discard the bay leaf and put broth and onions in a blender and puree. Return to instant pot and add back in pulled apart roast
-- [Mississippi Pot Roast](https://www.simplyhappyfoodie.com/instant-pot-mississippi-pot-roast/)
-  - sear and 90 minutes on high. Make sure you count the pepperoncinis and get all the stems out before you blend. We serve the pepperoncinis on the side instead of blending them. So much flavor.
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
