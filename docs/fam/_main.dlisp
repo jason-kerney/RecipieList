@@ -1,6 +1,7 @@
 (section-meta
     (title Family Favorites)
     (include
+        (Subsection ./general.md)
         (Subsection ./holiday.md)
     )
 )
