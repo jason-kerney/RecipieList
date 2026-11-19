@@ -28,7 +28,7 @@ All amounts are for 25lbs turkey.
 Instructions:
 
 1. Mix spices, honey, and butter thoroughly.
-2. Carefully separate turkey skin and turkey meat but keep skin intact and around the turkey.
+2. Gently slide your fingers between the skin and meat to loosen the skin, taking care not to tear or remove it. Leave the skin attached and covering the turkey.
 3. Rub 3/4ths the honey herb mixture on turkey meat under skin. Rub rest into turkey cavity (do not stuff).
 4. Place turkey into oven bag, and into large pan breast down. Ensure that bag opening is easy to get to.
 5. Bake turkey for half the recommended time. (Check with documentation given with turkey.)
