@@ -13,7 +13,7 @@
     "aliases": [
         {
             "name": "build",
-            "command": "node ./node_modules/doculisp/dist/index.js ./docs/_main.dlisp ./README.md"
+            "command": "node ./node_modules/doculisp/dist/index.js ./docs/_docs.dlproj"
         },
         {
             "name": "push",
