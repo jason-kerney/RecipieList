@@ -64,7 +64,7 @@ Instructions:
 
 ### Reuben Casserole ###
 
-### Ingredients
+#### Ingredients ####
 
 * Rye Bread of some variety
   * I prefer Pumpernickel or Sour Dough Rye
@@ -77,7 +77,7 @@ Instructions:
 * Pepper
 * Baking Pan
 
-### Steps
+#### Steps ####
 
 1. Lightly Rinse Sour Kraut
 1. Cut crust off of bread

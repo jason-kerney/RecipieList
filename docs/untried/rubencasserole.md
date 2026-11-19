@@ -3,7 +3,7 @@
     (title Reuben Casserole))
 )-->
 
-### Ingredients
+<!--(dl (# Ingredients))-->
 
 * Rye Bread of some variety
   * I prefer Pumpernickel or Sour Dough Rye
@@ -16,7 +16,7 @@
 * Pepper
 * Baking Pan
 
-### Steps
+<!-- (dl (# Steps)) -->
 
 1. Lightly Rinse Sour Kraut
 1. Cut crust off of bread
