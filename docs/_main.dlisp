@@ -8,4 +8,4 @@
 )
 
 (# Table of Contents)
-(content (toc numbered-labeled))
+(content (toc numbered))

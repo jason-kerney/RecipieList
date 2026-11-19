@@ -8,8 +8,8 @@
 
 ## Table of Contents ##
 
-1. Section: [Family Favorites](#family-favorites)
-2. Section: [Personal Favorites](#personal-favorites)
+1. [Family Favorites](#family-favorites)
+2. [Personal Favorites](#personal-favorites)
 
 ## Family Favorites ##
 
